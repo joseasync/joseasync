@@ -8,7 +8,6 @@
 - ☁️ Experienced in building scalable and secure cloud applications;
 - 💬 Advocate for clean code, SOLID principles, and efficient problem-solving;
 - 🎥 I make fun coding videos & stream at [https://youtube.com/joseasync](https://www.youtube.com/joseasync?sub_confirmation=1)
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I love tacos 
 
 &nbsp;
